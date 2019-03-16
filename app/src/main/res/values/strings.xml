@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="message">0</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="button_random">Random</string>
+    <string name="second_view_message">Numero Random</string>
+    <string name="random_number">Between 0 and %1d</string>
+</resources>
